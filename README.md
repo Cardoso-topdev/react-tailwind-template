@@ -8,7 +8,7 @@ Created and maintained with ❤️ by [Cruip.com](https://cruip.com/).
 
 ## Live demo
 
-Check the live demo here 👉️ [https://simple.cruip.com/](https://simple.cruip.com/)
+Check the live demo here 👉️ [Live Demo](https://oscar-tailwind-landing.vercel.app/)
 
 ## Simple PRO
 
